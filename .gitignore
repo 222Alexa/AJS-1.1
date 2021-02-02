@@ -4,6 +4,8 @@ Thumbs.db*
 HELP.md
 dist
 doc
+#dist
+dist
 
 # Logs
 logs
@@ -44,7 +46,7 @@ node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
-typings/
+typings/ver
 
 # Optional npm cache directory
 .npm
